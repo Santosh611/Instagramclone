@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'insta_body.dart';
+
 class Instahome extends StatelessWidget {
   const Instahome({Key? key}) : super(key: key);
 
@@ -18,7 +20,7 @@ class Instahome extends StatelessWidget {
           )
         ],
         ),
-        body: new Container(),
+        body: new InstaBody(),
         bottomNavigationBar: Container(
           color: Colors.white,
           height: 50,
