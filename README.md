@@ -1,8 +1,6 @@
 # instagramclone
 
-A new Flutter project.
-
-## Getting Started
+Worked on the creating a clone of instagram's home page. 
 
 This project is a starting point for a Flutter application.
 
