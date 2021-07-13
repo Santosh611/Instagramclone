@@ -31,7 +31,7 @@ class InstaList extends StatelessWidget {
                                   "https://www.cheatsheet.com/wp-content/uploads/2020/11/Marvel-star-Robert-Downey-Jr-1024x692.jpg"))),
                     ),
                     new SizedBox(
-                      width: 10.0,
+                      width: 10.0,  
                     ),
                     new Text(
                       "RDJ",
