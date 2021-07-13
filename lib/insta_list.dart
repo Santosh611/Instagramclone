@@ -41,7 +41,7 @@ class _InstaListState extends State<InstaList> {
                               image: new DecorationImage(
                                   fit: BoxFit.fill,
                                   image: new NetworkImage(
-                                      "https://pbs.twimg.com/profile_images/916384996092448768/PF1TSFOE_400x400.jpg")),
+                                      "https://www.cheatsheet.com/wp-content/uploads/2020/11/Marvel-star-Robert-Downey-Jr-1024x692.jpg")),
                             ),
                           ),
                           new SizedBox(
@@ -63,7 +63,7 @@ class _InstaListState extends State<InstaList> {
                 Flexible(
                   fit: FlexFit.loose,
                   child: new Image.network(
-                    "https://images.pexels.com/photos/672657/pexels-photo-672657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+                    "https://www.cheatsheet.com/wp-content/uploads/2020/11/Marvel-star-Robert-Downey-Jr-1024x692.jpg",
                     fit: BoxFit.cover,
                   ),
                 ),
@@ -122,7 +122,7 @@ class _InstaListState extends State<InstaList> {
                           image: new DecorationImage(
                               fit: BoxFit.fill,
                               image: new NetworkImage(
-                                  "https://pbs.twimg.com/profile_images/916384996092448768/PF1TSFOE_400x400.jpg")),
+                                  "https://www.cheatsheet.com/wp-content/uploads/2020/11/Marvel-star-Robert-Downey-Jr-1024x692.jpg")),
                         ),
                       ),
                       new SizedBox(
